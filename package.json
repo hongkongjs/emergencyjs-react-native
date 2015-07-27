@@ -1,0 +1,14 @@
+{
+  "name": "emergencyJS",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "react-native": "^0.7.1",
+    "tcomb": "^1.0.3",
+    "tcomb-form-native": "^0.2.3",
+    "tcomb-validation": "^1.0.4"
+  }
+}
