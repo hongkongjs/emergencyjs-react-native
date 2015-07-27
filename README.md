@@ -1,5 +1,7 @@
 # Emergency JS
 
+![]('assets/icon.png')
+
 Welcome to Emergency JS, your one-stop-shop to the **brains** within the Hong Kong JavaScript community.
 
 ## Libraries
